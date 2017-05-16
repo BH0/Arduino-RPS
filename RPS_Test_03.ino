@@ -1,3 +1,7 @@
+/// Simulation Sketch I mention 
+
+/* Code: */ 
+
 bool playerOne_rock, playerTwo_rock;
 bool playerOne_paper, playerTwo_paper;
 bool playerOne_scizzors, playerTwo_scizzors;
